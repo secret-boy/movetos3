@@ -5,12 +5,26 @@
   "scripts": {
     "build": "rimraf dist/ && tsc"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/secret-boy/movetos3.git"
+  },
+  "keywords": [
+    "aws",
+    "move",
+    "s3",
+    "files"
+  ],
   "author": "Sulay Sumaria",
   "license": "MIT",
   "main": "dist/index.js",
   "bin": {
     "mts": "dist/index.js"
   },
+  "bugs": {
+    "url": "https://github.com/secret-boy/movetos3/issues"
+  },
+  "homepage": "https://github.com/secret-boy/movetos3#readme",
   "dependencies": {
     "aws-sdk": "^2.325.0",
     "commander": "^2.18.0"
