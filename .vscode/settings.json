@@ -1,0 +1,14 @@
+{
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "prettier.trailingComma": "all",
+  "prettier.printWidth": 140,
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false,
+  "telemetry.enableTelemetry": false,
+  "telemetry.enableCrashReporter": false,
+  "tslint.enable": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": false
+}

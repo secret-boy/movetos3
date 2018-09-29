@@ -1,0 +1,7 @@
+.vscode/**
+.eslintignore
+.eslintrc.js
+*.tgz
+src/**
+tsconfig.json
+config.json
