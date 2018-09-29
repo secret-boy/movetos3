@@ -11,9 +11,9 @@ function init() {
     .option('-d --dir <dir>', 'Directory to upload files from.')
     .option('-r --recursive', 'Recursively scan the dir to upload all files.')
     .option('-c --config-file [config-file]', 'Path to config.json file.')
-    .option('-u --upload', 'Only scan dir, but dont upload them.')
-    .option('-l --list', 'List files')
-    .option('-a --append-random-string', 'Append filenames with random strings or not.')
+    .option('-u --upload', 'Upload files after scanning.')
+    .option('-l --list', 'List files.')
+    .option('-a --append-random-string', 'Append random strings to filenames before uploading.')
     .parse(process.argv)
 
   if (!process.argv.slice(2).length) {
