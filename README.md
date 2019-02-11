@@ -1,6 +1,6 @@
 #### @secretboy/movetos3
 
-v0.0.2
+v0.0.3
 
 Move your files from folder to S3 with ease.
 
