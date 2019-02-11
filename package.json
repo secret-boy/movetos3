@@ -1,6 +1,6 @@
 {
   "name": "@secretboy/movetos3",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Move your files from folder to S3 with ease.",
   "scripts": {
     "build": "rimraf dist/ && tsc"
@@ -26,12 +26,12 @@
   },
   "homepage": "https://github.com/secret-boy/movetos3#readme",
   "dependencies": {
-    "aws-sdk": "^2.325.0",
-    "commander": "^2.18.0"
+    "aws-sdk": "^2.400.0",
+    "commander": "^2.19.0"
   },
   "devDependencies": {
-    "@types/node": "^10.11.3",
-    "rimraf": "^2.6.2",
-    "typescript": "^3.1.1"
+    "@types/node": "^10.12.24",
+    "rimraf": "^2.6.3",
+    "typescript": "^3.3.3"
   }
 }
