@@ -1,5 +1,10 @@
 ### Changelog
 
+v0.0.4
+
+- Updated Dependencies.
+- Updated Dev Dependencies.
+
 v0.0.3
 
 - No changes.
