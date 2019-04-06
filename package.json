@@ -1,6 +1,6 @@
 {
   "name": "@secretboy/movetos3",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Move your files from folder to S3 with ease.",
   "scripts": {
     "build": "rimraf dist/ && tsc"
